@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://namaklien.com/sitemap.xml
